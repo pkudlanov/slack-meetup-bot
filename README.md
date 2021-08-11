@@ -16,3 +16,5 @@ The following command prompts are at your disposal:
   - `@Meetup Bot /unregister <id>` to remove an event from your events.
 
 Danny Hogan, Eli Nicholson, and Pavel Kudlanov
+
+https://join.slack.com/t/techmeetupsinportland/signup
